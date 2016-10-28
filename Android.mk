@@ -17,7 +17,6 @@ common_src_files := \
 	ResponseCode.cpp \
 	CheckBattery.cpp \
 	VoldUtil.c \
-	cryptfs.c \
 	Disk.cpp \
 	DiskPartition.cpp \
 	VolumeBase.cpp \
